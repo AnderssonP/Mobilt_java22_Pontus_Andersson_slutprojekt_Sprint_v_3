@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14684272223",
+    "project_id": "scrum-86279",
+    "storage_bucket": "scrum-86279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14684272223:android:77b388aa5f58767a050dea",
+        "android_client_info": {
+          "package_name": "com.example.end_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzdHbzihnXZbtSPwX4IRuaT5AJuwGMCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14684272223:android:2e6f3bcc7cc1db00050dea",
+        "android_client_info": {
+          "package_name": "com.example.project_end"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzdHbzihnXZbtSPwX4IRuaT5AJuwGMCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
